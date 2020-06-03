@@ -1,7 +1,7 @@
 # AHK script designed for people who
 - do math
-- using IME
-- using Typora
+- use IME
+- use Typora
 ## It Majorly has following features
 1. humanized logic for math snippet
 2. humanized logic for IME changing when people enter different mode
